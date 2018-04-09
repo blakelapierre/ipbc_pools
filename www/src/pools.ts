@@ -10,7 +10,6 @@ export default [
   'http://54.148.101.99:8008/live_stats',
   'http://ipbc.pool.ahka.net:8117/stats',
   'https://ipbc.dreampool.info/api/live_stats',
-  'http://ipbc.pool.pilbeams.net:8117/stats',
   'https://ipbc.spacepools.org/api/cf_stats',
   'http://ipbc.pool.ahka.net:8117/stats',
   'https://ipbc.minez.ro/live_stats'
