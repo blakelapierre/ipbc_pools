@@ -1,3 +1,3 @@
 export default [
-  'http://seed4.ultranote.org:31000/json_rpc'
+  'https://explorer.ipbc.io:8120/json_rpc'
 ];

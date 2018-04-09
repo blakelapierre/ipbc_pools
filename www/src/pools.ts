@@ -1,6 +1,6 @@
 export default [
-  'http://alpha.ultranote.org:8117/live_stats',
-  'http://beta.ultranote.org:8117/live_stats',
-  'http://delta.ultranote.org:8117/live_stats',
-  'https://cryptoknight.cc/rpc/xun/live_stats'
+  'https://pool.ipbc.io:8119/live_stats',
+  'https://support.ipbc.io:8119/live_stats',
+  'https://cryptoknight.cc/rpc/ipbc/live_stats',
+  'http://54.148.101.99:8008/live_stats'
 ];
