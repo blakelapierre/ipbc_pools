@@ -11,7 +11,7 @@ export default [
   'http://ipbc.pool.ahka.net:8117/stats',
   'https://ipbc.dreampool.info/api/live_stats',
   'http://btcn.pool.pilbeams.net:8117/stats',
-  'https://etn.spacepools.org/api/cf_stats',
+  'https://ipbc.spacepools.org/api/cf_stats',
   'http://ipbc.pool.ahka.net:8117/stats',
   'https://ipbc.minez.ro/live_stats'
 ];
