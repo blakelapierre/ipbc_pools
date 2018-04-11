@@ -1,14 +1,19 @@
 export default [
-  'https://pool.ipbc.io:8119/live_stats',
-  'https://support.ipbc.io:8119/live_stats',
-  'https://cryptoknight.cc/rpc/ipbc/live_stats',
   'http://54.148.101.99:8008/live_stats',
+  'http://116.62.162.230:8110/stats',
+  'http://149.56.155.28:8119/live_stats',
+  'https://cryptoknight.cc/rpc/ipbc/live_stats',
+  'http://api.iccob.com/ipbc/live_stats',
+  'https://api.ipbc.mining-pool.pw/live_stats',
+  'https://ipbc.dreampool.info/api/live_stats',
+  'https://ipbc.minez.ro/live_stats',
+  'http://ipbc.pool.ahka.net:8117/stats',
+  'https://ipbc.spacepools.org/api/cf_stats',
+  'https://ipbc.supportcryptonight.com/api/live_stats',
+  'https://ipbc-api.pulsarcrypt.com/live_stats'
   'https://ipbc-pool.network:8443/live_stats',
   'http://ipbc-us.labbinarymining.com:8317/live_stats',
   'http://ipbccoin.newpool.pw:8117/live_stats',
-  'http://ipbc.pool.ahka.net:8117/stats',
-  'http://54.148.101.99:8008/live_stats',
-  'https://ipbc.dreampool.info/api/live_stats',
-  'https://ipbc.spacepools.org/api/cf_stats',
-  'https://ipbc.minez.ro/live_stats'
+  'https://pool.ipbc.io:8119/live_stats',
+  'https://support.ipbc.io:8119/live_stats'
 ];
