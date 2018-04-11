@@ -10,7 +10,7 @@ export default [
   'http://ipbc.pool.ahka.net:8117/stats',
   'https://ipbc.spacepools.org/api/cf_stats',
   'https://ipbc.supportcryptonight.com/api/live_stats',
-  'https://ipbc-api.pulsarcrypt.com/live_stats'
+  'https://ipbc-api.pulsarcrypt.com/live_stats',
   'https://ipbc-pool.network:8443/live_stats',
   'http://ipbc-us.labbinarymining.com:8317/live_stats',
   'http://ipbccoin.newpool.pw:8117/live_stats',
